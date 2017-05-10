@@ -15,7 +15,7 @@ class RedViewController: UIViewController
     override func viewDidLoad()
     {
         super.viewDidLoad()
-        redLbl.text = "reddd"
+        redLbl.text = "reddvd"
 
         // Do any additional setup after loading the view.
     }
